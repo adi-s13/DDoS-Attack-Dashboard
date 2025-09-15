@@ -1,0 +1,18 @@
+Ignore local data & models
+models/
+data/
+datasets/
+
+Ignore trained/derived artifacts
+*.pkl
+*.csv
+
+Streamlit cache
+.streamlit/
+
+Python caches & envs
+pycache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
